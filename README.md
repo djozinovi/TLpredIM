@@ -11,3 +11,5 @@ The following pre-trained models are available in the repository:
 * *centIT10s.h5* (multi-station IM prediction model trained on CI)
 * *10secMagCNNSTEAD.h5* (single-station magnitude determination trained on STEAD data)
 * *centIT10sSTead.hdf5* (multi-station IM prediction model trained on CI using a pre-trained model 10secMagCNNSTEAD.h5).
+
+The station list is available in the file *stationList.csv*.
